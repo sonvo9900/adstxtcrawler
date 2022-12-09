@@ -23,7 +23,7 @@ $ cat target_domains.txt
 #https://chicagotribune.com
 #http://latimes.com/sports
 #washingtonpost.com
-#http://nytimes.com/index.html
+#https://vnads.net/index.html
 localhosttribune.com
 ```
 
@@ -66,7 +66,7 @@ This is an example prototype crawler and would be suitable only for a very modes
 
 ## Contributors
 
-Maintainer: Neal Richter, neal@spotx.tv or nrichter@gmail.com
+Maintainer: Neal Richter, neal@spotx.tv or seo1vn.com@gmail.com
 
 Contributors (GitHub.com account names)
 iantri
